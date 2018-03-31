@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 周易函書約存
-#+DATE: 2018-03-31 09:02:55.500882
+#+DATE: 2018-03-31 09:02:56.038995
 #+PROPERTY: ID KR1a0145
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 目録
 <pb:KR1a0145_WYG_019-1a>¶
 欽定四庫全書¶
@@ -31,7 +31,7 @@
 卷九(下經)¶
 損　益　夬　姤　萃　升¶
 卷十(下經)¶
-困　井　革　𪔂　震　艮
+困　井　革　鼎　震　艮
 <pb:KR1a0145_WYG_019-2b>¶
 卷十一(下經)¶
 漸　歸妹　豐　旅　巽　兌¶

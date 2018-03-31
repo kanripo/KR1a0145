@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 周易函書約存
-#+DATE: 2018-03-31 09:02:55.656492
+#+DATE: 2018-03-31 09:02:56.228951
 #+PROPERTY: ID KR1a0145
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 卷二易學須知
 <pb:KR1a0145_WYG_039-1a>¶
 欽定四庫全書¶
@@ -526,7 +526,7 @@
 天地之氣在人要他何用然而象中之理即人而存不¶
 可不察¶
 須知周易中一爻一象便可該天地間萬事萬物其或¶
-直言人事即此人事莫非是象亦當與金車玉&KR0599;同觀
+直言人事即此人事莫非是象亦當與金車玉鉉同觀
 <pb:KR1a0145_WYG_039-30a>¶
 盖所明者止是卦爻之理而此等人事原不足盡卦爻¶
 之所該故聖人教人有觀象玩占之法¶
